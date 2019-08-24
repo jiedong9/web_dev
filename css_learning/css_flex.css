@@ -1,0 +1,15 @@
+.container {
+  display: inline-flex;
+  /* flex-direction: row; */
+  width: 800px;
+  border: 1px solid blue;
+  flex-direction: row-reverse;
+  background: rgb(227, 227, 233);
+}
+.item {
+  width: 100px;
+  height: 100px;
+  background: rgb(243, 196, 196);
+  margin: 0 5px;
+  /* justify-content: flex-start; */
+}
