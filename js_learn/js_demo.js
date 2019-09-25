@@ -1,7 +1,5 @@
-top:
-    for (var i = 0; i < 3; i++) {
-        for (var j = 0; j < 3; j++) {
-            if (i === 1 && j === 1) continue top;
-            console.log('i=' + i + ', j=' + j);
-        }
-    }
+let scores = [95, 91, 59, 55, 42, 82, 72, 85, 67, 66, 55, 91]
+let sum = scores.reduce((sum, n) => {
+    return (n % 2 === 1) ? sum + n : sum
+}, 0)
+console.log(sum)
