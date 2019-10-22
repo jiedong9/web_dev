@@ -1,0 +1,13 @@
+ul {
+    display: flex;
+    /* flex-direction: column; */
+    /* flex-wrap: wrap-reverse; */
+    flex-flow: row nowrap;
+}
+
+li {
+    width: 100px;
+    height: 100px;
+    background: #8cacea;
+    margin: 8px;
+}
