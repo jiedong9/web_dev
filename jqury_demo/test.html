@@ -10,14 +10,36 @@
 </head>
 
 <body>
-    <h2>什么是JQUERY?</h2>
-    <P>
-        <strong>
-            解答：
-        </strong>
-        优秀的jQuery
-    </P>
-
+    <div id="cart">
+        <table width='600' border='1' cellpadding='0' cellspacing=0>
+            <tr>
+                <th>
+                    <input type="checkbox">全选
+                </th>
+                <th>商品信息</th>
+                <th>价格</th>
+                <th>数量</th>
+                <th>操作</th>
+            </tr>
+            <tr>
+                <td><input type="checkbox"></td>
+                <td>
+                    <img src="test.jpg" width="100px" alt="">
+                    <a href="#">苏泊尔居家不粘锅</a>
+                </td>
+                <td>￥259元</td>
+                <td><input type="text" value="1"></td>
+                <td><a href="#" id="del">删除</a></td>
+            </tr>
+        </table>
+        <div class="tipsbox" style="display: none;">
+            <p>确定要删除吗</p>
+            <p>
+                <input type="button" name="confirm" class="btns" value="确认">
+                <input type="button" name="cancel" class="btns" value="取消">
+            </p>
+        </div>
+    </div>
     <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
     <script src="test.js"></script>
 </body>

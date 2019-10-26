@@ -1,5 +1,8 @@
 $(document).ready(() => {
-    $('h2').click(() => {
-        $('h2').css('background-color', )
+    $('#del').click(() => {
+        $('.tipsbox').show('slow')
+    })
+    $('input[name=cancel]').click(() => {
+        $('.tipbox').hide('fast')
     })
 })
