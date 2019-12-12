@@ -123,9 +123,14 @@ function showPic(whichpic) {
   var placeholder = document.getElementById('placeholder');
   placeholder.setAttribute('src', source);
   var text = whichpic.getAttribute('title');
-  console.log(text);
+  var description = document.getElementById('description');
+  description.firstChild.nodeValue = text;
 }
-},{}],"../../../../../../../AppData/Local/Yarn/Data/global/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+
+function popUp(url) {
+  window.open(url, 'popup', 'width=320,height=480');
+}
+},{}],"../../../../../../../AppData/Roaming/npm/node_modules/parcel/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -153,7 +158,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "2068" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "12606" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
@@ -329,5 +334,5 @@ function hmrAcceptRun(bundle, id) {
     return true;
   }
 }
-},{}]},{},["../../../../../../../AppData/Local/Yarn/Data/global/node_modules/parcel-bundler/src/builtins/hmr-runtime.js","../js/main.js"], null)
+},{}]},{},["../../../../../../../AppData/Roaming/npm/node_modules/parcel/src/builtins/hmr-runtime.js","../js/main.js"], null)
 //# sourceMappingURL=/main.8f75cf09.js.map
