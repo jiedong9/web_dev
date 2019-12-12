@@ -1,4 +1,4 @@
-const div = dom.find('#test>.red')[0] // 获取对应的元素
+const div = dom.find('#demo>.red')[0] // 获取对应的元素
 console.log(div)
 dom.style(div, 'color', 'red') // 设置 div.style.color
 
