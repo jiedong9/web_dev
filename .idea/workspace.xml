@@ -2,43 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b857d367-7104-4d56-8da3-528c2dc808df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/123.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/homework/.cache/55/b7aa5550c6d3dc95089afc2597ef72.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/homework/.cache/85/c204373aea1cfbe13ecd3b4c498c21.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/homework/.cache/88/a0d311d52ded2b6fa13b2a6982d79b.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/homework/.cache/b4/a67e3b562bd38909881aa180215bbd.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/homework/dist/dom.1d0b6d56.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/homework/dist/dom.1d0b6d56.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/homework/dist/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/homework/dist/main.1f19ae8e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/homework/dist/main.1f19ae8e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/20/5cc794e94b905ce6ad4569626ff0d4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/40/4a1165990ee7e49cf2b6487e6ac3dd.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/7a/e5abf9886164a6ef1d75ab6b68885e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/88/a0d311d52ded2b6fa13b2a6982d79b.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/c4/cd877359a4190062729a79eee3f015.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/d4/8c79896c960e0a18431bde76d4680f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/d9/2db4aec0f67f4e1026388eb8ed6129.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/ff/dd80626bf2f211b4f5372f327e3ca0.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/ch4/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/ch4/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/ch4/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/ch4/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/ch4/images/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/ch4/images/5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/ch4/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/5.1c0f233f.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/__/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/__/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/__/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/__/images/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/main.8f75cf09.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/main.8f75cf09.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bibao/demo1.js" beforeDir="false" afterPath="$PROJECT_DIR$/bibao/demo1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bibao/demo2.js" beforeDir="false" afterPath="$PROJECT_DIR$/bibao/demo2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/88/a0d311d52ded2b6fa13b2a6982d79b.json" beforeDir="false" afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/88/a0d311d52ded2b6fa13b2a6982d79b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/c4/cd877359a4190062729a79eee3f015.json" beforeDir="false" afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/c4/cd877359a4190062729a79eee3f015.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dom/javascript_dom_learning/ch4/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/ch4/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/main.8f75cf09.js" beforeDir="false" afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/main.8f75cf09.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/main.8f75cf09.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/main.8f75cf09.js.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +52,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -94,7 +63,10 @@
       <recent name="C:\Users\123\Documents\GitHub\web_dev\css_learning\layout\position" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.demo2.js">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web_dev/dom/javascript_dom_learning/ch4/html/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="demo1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/bibao/demo1.js" working-dir="$PROJECT_DIR$/bibao">
       <method v="2" />
     </configuration>
@@ -106,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Node.js.demo2.js" />
         <item itemvalue="Node.js.demo1.js" />
         <item itemvalue="Node.js.learn_fuction.js" />
@@ -155,6 +128,8 @@
       <workItem from="1576133270498" duration="2034000" />
       <workItem from="1576135333157" duration="2704000" />
       <workItem from="1576138647212" duration="490000" />
+      <workItem from="1576139151701" duration="1530000" />
+      <workItem from="1576140770079" duration="1447000" />
     </task>
     <servers />
   </component>
@@ -197,22 +172,22 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="499" y="250" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1576136667519" />
-    <state width="756" height="217" key="GridCell.Tab.0.bottom" timestamp="1575892587060">
+    <state width="1269" height="271" key="GridCell.Tab.0.bottom" timestamp="1576142227176">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="756" height="217" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1575892587060" />
-    <state width="756" height="217" key="GridCell.Tab.0.center" timestamp="1575892587060">
+    <state width="1269" height="271" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1576142227176" />
+    <state width="1269" height="271" key="GridCell.Tab.0.center" timestamp="1576142227176">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="756" height="217" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1575892587060" />
-    <state width="756" height="217" key="GridCell.Tab.0.left" timestamp="1575892587059">
+    <state width="1269" height="271" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1576142227176" />
+    <state width="1269" height="271" key="GridCell.Tab.0.left" timestamp="1576142227176">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="756" height="217" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1575892587059" />
-    <state width="756" height="217" key="GridCell.Tab.0.right" timestamp="1575892587060">
+    <state width="1269" height="271" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1576142227176" />
+    <state width="1269" height="271" key="GridCell.Tab.0.right" timestamp="1576142227176">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="756" height="217" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1575892587060" />
+    <state width="1269" height="271" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1576142227176" />
     <state width="1150" height="271" key="GridCell.Tab.1.bottom" timestamp="1575879039093">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -265,10 +240,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="952" y="73" key="RollbackChangesDialog/0.0.1440.860@0.0.1440.860" timestamp="1575704874266" />
-    <state x="234" y="101" key="SettingsEditor" timestamp="1576139136819">
+    <state x="234" y="101" key="SettingsEditor" timestamp="1576142223502">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="234" y="101" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1576139136819" />
+    <state x="234" y="101" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1576142223502" />
     <state width="498" height="452" key="SwitcherDM" timestamp="1575686289963">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
