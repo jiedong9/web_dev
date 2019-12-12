@@ -2,40 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b857d367-7104-4d56-8da3-528c2dc808df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bibao/demo2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/.cache/0b/89a5092eea552dad21228a4d7a7a82.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/.cache/7a/813cfc627433b5fccb656ac8c53999.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/.cache/88/a0d311d52ded2b6fa13b2a6982d79b.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/.cache/bb/c597e70fec339c48d58693a4b65f7e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/.cache/f6/9ba84d1b63b3661e201a042f7f6364.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/box-sizing/demo1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/box-sizing/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/dist/demo1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/dist/style.e308ff8e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/dist/style.e308ff8e.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/dist/style.e308ff8e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/dist/style.e308ff8e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/position/.cache/0b/89a5092eea552dad21228a4d7a7a82.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/position/.cache/2a/7d9e993b80b1676b8982422f0474da.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/position/.cache/88/a0d311d52ded2b6fa13b2a6982d79b.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/position/.cache/f6/9ba84d1b63b3661e201a042f7f6364.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/position/.cache/ff/2c5538b6fa4b248fc55963dd6455f3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/position/dist/position.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/position/dist/style.e308ff8e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/position/dist/style.e308ff8e.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/position/dist/style.e308ff8e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/position/dist/style.e308ff8e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/position/position.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_learning/layout/position/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/123.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/homework/.cache/55/b7aa5550c6d3dc95089afc2597ef72.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/homework/.cache/85/c204373aea1cfbe13ecd3b4c498c21.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/homework/.cache/88/a0d311d52ded2b6fa13b2a6982d79b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/homework/.cache/b4/a67e3b562bd38909881aa180215bbd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/homework/dist/dom.1d0b6d56.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/homework/dist/dom.1d0b6d56.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/homework/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/homework/dist/main.1f19ae8e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/homework/dist/main.1f19ae8e.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/20/5cc794e94b905ce6ad4569626ff0d4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/40/4a1165990ee7e49cf2b6487e6ac3dd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/7a/e5abf9886164a6ef1d75ab6b68885e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/88/a0d311d52ded2b6fa13b2a6982d79b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/c4/cd877359a4190062729a79eee3f015.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/d4/8c79896c960e0a18431bde76d4680f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/d9/2db4aec0f67f4e1026388eb8ed6129.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/ff/dd80626bf2f211b4f5372f327e3ca0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/ch4/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/ch4/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/ch4/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/ch4/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/ch4/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/ch4/images/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/ch4/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/5.1c0f233f.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/__/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/__/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/__/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/__/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/main.8f75cf09.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/main.8f75cf09.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css_learning/flex_learning/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css_learning/flex_learning/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css_learning/flex_learning/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css_learning/flex_learning/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibao/demo1.js" beforeDir="false" afterPath="$PROJECT_DIR$/bibao/demo1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibao/demo2.js" beforeDir="false" afterPath="$PROJECT_DIR$/bibao/demo2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="web_dev" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,15 +82,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\123\Documents\GitHub\web_dev\dom\javascript_dom_learning\ch4\html" />
+      <recent name="C:\Users\123\Documents\GitHub\web_dev\dom\javascript_dom_learning\ch4\js" />
+      <recent name="C:\Users\123\Documents\GitHub\web_dev\dom\javascript_dom_learning\ch4" />
+      <recent name="C:\Users\123\Documents\GitHub\web_dev\dom\javascript_dom_learning\ch4\images" />
       <recent name="C:\Users\123\Documents\GitHub\web_dev\css_learning\layout\position" />
-      <recent name="C:\Users\123\Documents\GitHub\web_dev\css_learning\layout\box-sizing" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.demo1.js">
+  <component name="RunManager" selected="Node.js.demo2.js">
     <configuration name="demo1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/bibao/demo1.js" working-dir="$PROJECT_DIR$/bibao">
       <method v="2" />
     </configuration>
@@ -91,8 +106,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.demo1.js" />
         <item itemvalue="Node.js.demo2.js" />
+        <item itemvalue="Node.js.demo1.js" />
         <item itemvalue="Node.js.learn_fuction.js" />
       </list>
     </recent_temporary>
@@ -132,6 +147,14 @@
       <workItem from="1574384087598" duration="10546000" />
       <workItem from="1575603180076" duration="1245000" />
       <workItem from="1575683878008" duration="13421000" />
+      <workItem from="1575878038342" duration="8411000" />
+      <workItem from="1575937957196" duration="2718000" />
+      <workItem from="1575940867606" duration="762000" />
+      <workItem from="1575942932967" duration="1312000" />
+      <workItem from="1576133250790" duration="19000" />
+      <workItem from="1576133270498" duration="2034000" />
+      <workItem from="1576135333157" duration="2704000" />
+      <workItem from="1576138647212" duration="490000" />
     </task>
     <servers />
   </component>
@@ -158,6 +181,10 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="325" y="118" key="#Inspections" timestamp="1575878216705">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="325" y="118" key="#Inspections/0.0.1440.860@0.0.1440.860" timestamp="1575878216705" />
     <state x="898" y="237" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575688990421">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -166,74 +193,82 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="500" y="0" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1575711102753" />
-    <state width="893" height="165" key="GridCell.Tab.0.bottom" timestamp="1575710908762">
+    <state x="499" y="250" key="FileChooserDialogImpl" timestamp="1576136667519">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="893" height="165" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1575710908762" />
-    <state width="893" height="165" key="GridCell.Tab.0.center" timestamp="1575710908761">
+    <state x="499" y="250" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1576136667519" />
+    <state width="756" height="217" key="GridCell.Tab.0.bottom" timestamp="1575892587060">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="893" height="165" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1575710908761" />
-    <state width="893" height="165" key="GridCell.Tab.0.left" timestamp="1575710908761">
+    <state width="756" height="217" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1575892587060" />
+    <state width="756" height="217" key="GridCell.Tab.0.center" timestamp="1575892587060">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="893" height="165" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1575710908761" />
-    <state width="893" height="165" key="GridCell.Tab.0.right" timestamp="1575710908761">
+    <state width="756" height="217" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1575892587060" />
+    <state width="756" height="217" key="GridCell.Tab.0.left" timestamp="1575892587059">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="893" height="165" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1575710908761" />
-    <state width="893" height="207" key="GridCell.Tab.1.bottom" timestamp="1575709998055">
+    <state width="756" height="217" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1575892587059" />
+    <state width="756" height="217" key="GridCell.Tab.0.right" timestamp="1575892587060">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="893" height="207" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1575709998055" />
-    <state width="893" height="207" key="GridCell.Tab.1.center" timestamp="1575709998055">
+    <state width="756" height="217" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1575892587060" />
+    <state width="1150" height="271" key="GridCell.Tab.1.bottom" timestamp="1575879039093">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="893" height="207" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1575709998055" />
-    <state width="893" height="207" key="GridCell.Tab.1.left" timestamp="1575709998055">
+    <state width="1150" height="271" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1575879039093" />
+    <state width="1150" height="271" key="GridCell.Tab.1.center" timestamp="1575879039092">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="893" height="207" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1575709998055" />
-    <state width="893" height="207" key="GridCell.Tab.1.right" timestamp="1575709998055">
+    <state width="1150" height="271" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1575879039092" />
+    <state width="1150" height="271" key="GridCell.Tab.1.left" timestamp="1575879039092">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="893" height="207" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1575709998055" />
-    <state width="893" height="207" key="GridCell.Tab.2.bottom" timestamp="1575709998056">
+    <state width="1150" height="271" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1575879039092" />
+    <state width="1150" height="271" key="GridCell.Tab.1.right" timestamp="1575879039092">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="893" height="207" key="GridCell.Tab.2.bottom/0.0.1440.860@0.0.1440.860" timestamp="1575709998056" />
-    <state width="893" height="207" key="GridCell.Tab.2.center" timestamp="1575709998055">
+    <state width="1150" height="271" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1575879039092" />
+    <state width="1150" height="271" key="GridCell.Tab.2.bottom" timestamp="1575879039093">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="893" height="207" key="GridCell.Tab.2.center/0.0.1440.860@0.0.1440.860" timestamp="1575709998055" />
-    <state width="893" height="207" key="GridCell.Tab.2.left" timestamp="1575709998055">
+    <state width="1150" height="271" key="GridCell.Tab.2.bottom/0.0.1440.860@0.0.1440.860" timestamp="1575879039093" />
+    <state width="1150" height="271" key="GridCell.Tab.2.center" timestamp="1575879039093">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="893" height="207" key="GridCell.Tab.2.left/0.0.1440.860@0.0.1440.860" timestamp="1575709998055" />
-    <state width="893" height="207" key="GridCell.Tab.2.right" timestamp="1575709998056">
+    <state width="1150" height="271" key="GridCell.Tab.2.center/0.0.1440.860@0.0.1440.860" timestamp="1575879039093" />
+    <state width="1150" height="271" key="GridCell.Tab.2.left" timestamp="1575879039093">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="893" height="207" key="GridCell.Tab.2.right/0.0.1440.860@0.0.1440.860" timestamp="1575709998056" />
-    <state width="893" height="207" key="GridCell.Tab.3.bottom" timestamp="1575709998057">
+    <state width="1150" height="271" key="GridCell.Tab.2.left/0.0.1440.860@0.0.1440.860" timestamp="1575879039093" />
+    <state width="1150" height="271" key="GridCell.Tab.2.right" timestamp="1575879039093">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="893" height="207" key="GridCell.Tab.3.bottom/0.0.1440.860@0.0.1440.860" timestamp="1575709998057" />
-    <state width="893" height="207" key="GridCell.Tab.3.center" timestamp="1575709998057">
+    <state width="1150" height="271" key="GridCell.Tab.2.right/0.0.1440.860@0.0.1440.860" timestamp="1575879039093" />
+    <state width="1150" height="271" key="GridCell.Tab.3.bottom" timestamp="1575879039093">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="893" height="207" key="GridCell.Tab.3.center/0.0.1440.860@0.0.1440.860" timestamp="1575709998057" />
-    <state width="893" height="207" key="GridCell.Tab.3.left" timestamp="1575709998057">
+    <state width="1150" height="271" key="GridCell.Tab.3.bottom/0.0.1440.860@0.0.1440.860" timestamp="1575879039093" />
+    <state width="1150" height="271" key="GridCell.Tab.3.center" timestamp="1575879039093">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="893" height="207" key="GridCell.Tab.3.left/0.0.1440.860@0.0.1440.860" timestamp="1575709998057" />
-    <state width="893" height="207" key="GridCell.Tab.3.right" timestamp="1575709998057">
+    <state width="1150" height="271" key="GridCell.Tab.3.center/0.0.1440.860@0.0.1440.860" timestamp="1575879039093" />
+    <state width="1150" height="271" key="GridCell.Tab.3.left" timestamp="1575879039093">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="893" height="207" key="GridCell.Tab.3.right/0.0.1440.860@0.0.1440.860" timestamp="1575709998057" />
+    <state width="1150" height="271" key="GridCell.Tab.3.left/0.0.1440.860@0.0.1440.860" timestamp="1575879039093" />
+    <state width="1150" height="271" key="GridCell.Tab.3.right" timestamp="1575879039093">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1150" height="271" key="GridCell.Tab.3.right/0.0.1440.860@0.0.1440.860" timestamp="1575879039093" />
     <state x="952" y="73" key="RollbackChangesDialog" timestamp="1575704874266">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="952" y="73" key="RollbackChangesDialog/0.0.1440.860@0.0.1440.860" timestamp="1575704874266" />
+    <state x="234" y="101" key="SettingsEditor" timestamp="1576139136819">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="234" y="101" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1576139136819" />
     <state width="498" height="452" key="SwitcherDM" timestamp="1575686289963">
       <screen x="0" y="0" width="1440" height="860" />
     </state>

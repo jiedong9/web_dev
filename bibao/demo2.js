@@ -1,10 +1,16 @@
-array = [1,5,2,3,4,2,3,1,3,4]
+let a = new Promise((resolve, reject) => {
+    setTimeout(() => {
+        resolve('a成功')
+    },1000)
+})
 
-newAarray = []
-for (let i=0;i<array.length;i++){
-    console.log(array[i])
-    if (!(array[i] in newAarray)){
-        newAarray.push(array[i])
-    }
-}
-console.log(newAarray)
+let b = new Promise((resolve, reject) => {
+    setTimeout(() => {
+        reject('失败')
+    },2000)
+})
+Promise.race([a, b]).then(res => {
+    console.log(res)
+},err => {
+    console.log(err)
+})
