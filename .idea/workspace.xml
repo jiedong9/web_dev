@@ -2,29 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b857d367-7104-4d56-8da3-528c2dc808df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/demo1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/demo2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dom/homework/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dom/homework/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/88/a0d311d52ded2b6fa13b2a6982d79b.json" beforeDir="false" afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/88/a0d311d52ded2b6fa13b2a6982d79b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/c4/cd877359a4190062729a79eee3f015.json" beforeDir="false" afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/.cache/c4/cd877359a4190062729a79eee3f015.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dom/javascript_dom_learning/ch4/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/ch4/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/main.8f75cf09.js" beforeDir="false" afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/main.8f75cf09.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/main.8f75cf09.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dom/javascript_dom_learning/dist/main.8f75cf09.js.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="web_dev" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -33,23 +35,42 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1PctceVYMCXjCa3RfPM3sfjVDYA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Node.js.demo2.js">
-    <configuration name="demo2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/demo/demo2.js" working-dir="$PROJECT_DIR$/demo">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\123\Documents\GitHub\web_dev\dom\javascript_dom_learning\ch4\html" />
+      <recent name="C:\Users\123\Documents\GitHub\web_dev\dom\javascript_dom_learning\ch4\js" />
+      <recent name="C:\Users\123\Documents\GitHub\web_dev\dom\javascript_dom_learning\ch4" />
+      <recent name="C:\Users\123\Documents\GitHub\web_dev\dom\javascript_dom_learning\ch4\images" />
+      <recent name="C:\Users\123\Documents\GitHub\web_dev\css_learning\layout\position" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web_dev/dom/javascript_dom_learning/ch4/html/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="demo1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/bibao/demo1.js" working-dir="$PROJECT_DIR$/bibao">
+      <method v="2" />
+    </configuration>
+    <configuration name="demo2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/bibao/demo2.js" working-dir="$PROJECT_DIR$/bibao">
       <method v="2" />
     </configuration>
     <configuration name="learn_fuction.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="learn_fuction.js" working-dir="$PROJECT_DIR$/js_learn">
@@ -57,7 +78,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Node.js.demo2.js" />
+        <item itemvalue="Node.js.demo1.js" />
         <item itemvalue="Node.js.learn_fuction.js" />
       </list>
     </recent_temporary>
@@ -92,13 +115,21 @@
       <workItem from="1569469025962" duration="775000" />
       <workItem from="1570679932577" duration="75000" />
       <workItem from="1573714225029" duration="1303000" />
-      <workItem from="1574086474061" duration="782000" />
-      <workItem from="1574087283684" duration="1184000" />
-      <workItem from="1574088490136" duration="159000" />
-      <workItem from="1575776701438" duration="8283000" />
-      <workItem from="1576146462553" duration="306000" />
-      <workItem from="1576146832677" duration="637000" />
-      <workItem from="1576147544408" duration="615000" />
+      <workItem from="1574119977214" duration="571000" />
+      <workItem from="1574120566003" duration="265000" />
+      <workItem from="1574384087598" duration="10546000" />
+      <workItem from="1575603180076" duration="1245000" />
+      <workItem from="1575683878008" duration="13421000" />
+      <workItem from="1575878038342" duration="8411000" />
+      <workItem from="1575937957196" duration="2718000" />
+      <workItem from="1575940867606" duration="762000" />
+      <workItem from="1575942932967" duration="1312000" />
+      <workItem from="1576133250790" duration="19000" />
+      <workItem from="1576133270498" duration="2034000" />
+      <workItem from="1576135333157" duration="2704000" />
+      <workItem from="1576138647212" duration="490000" />
+      <workItem from="1576139151701" duration="1530000" />
+      <workItem from="1576140770079" duration="1447000" />
     </task>
     <servers />
   </component>
@@ -119,40 +150,112 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/kuayu-1" />
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1386" height="209" key="GridCell.Tab.0.bottom" timestamp="1575786089940">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="325" y="118" key="#Inspections" timestamp="1575878216705">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1386" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575786089940" />
-    <state width="1386" height="209" key="GridCell.Tab.0.center" timestamp="1575786089940">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="325" y="118" key="#Inspections/0.0.1440.860@0.0.1440.860" timestamp="1575878216705" />
+    <state x="898" y="237" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575688990421">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1386" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575786089940" />
-    <state width="1386" height="209" key="GridCell.Tab.0.left" timestamp="1575786089940">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="898" y="237" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1575688990421" />
+    <state x="500" y="0" key="CommitChangelistDialog2" timestamp="1575711102753">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1386" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575786089940" />
-    <state width="1386" height="209" key="GridCell.Tab.0.right" timestamp="1575786089940">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="500" y="0" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1575711102753" />
+    <state x="499" y="250" key="FileChooserDialogImpl" timestamp="1576136667519">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1386" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575786089940" />
-    <state x="254" y="40" key="SettingsEditor" timestamp="1576146672355">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="499" y="250" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1576136667519" />
+    <state width="1269" height="271" key="GridCell.Tab.0.bottom" timestamp="1576142227176">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="254" y="40" key="SettingsEditor/-1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1576146672355" />
-    <state x="254" y="40" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575777729248" />
-    <state x="574" y="191" key="git4idea.merge.GitPullDialog" timestamp="1576148270764">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1269" height="271" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1576142227176" />
+    <state width="1269" height="271" key="GridCell.Tab.0.center" timestamp="1576142227176">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="574" y="191" key="git4idea.merge.GitPullDialog/-1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1576148270764" />
-    <state x="247" y="182" key="run.anything.popup" timestamp="1575788902595">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1269" height="271" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1576142227176" />
+    <state width="1269" height="271" key="GridCell.Tab.0.left" timestamp="1576142227176">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="247" y="182" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1575788902595" />
+    <state width="1269" height="271" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1576142227176" />
+    <state width="1269" height="271" key="GridCell.Tab.0.right" timestamp="1576142227176">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1269" height="271" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1576142227176" />
+    <state width="1150" height="271" key="GridCell.Tab.1.bottom" timestamp="1575879039093">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1150" height="271" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1575879039093" />
+    <state width="1150" height="271" key="GridCell.Tab.1.center" timestamp="1575879039092">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1150" height="271" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1575879039092" />
+    <state width="1150" height="271" key="GridCell.Tab.1.left" timestamp="1575879039092">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1150" height="271" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1575879039092" />
+    <state width="1150" height="271" key="GridCell.Tab.1.right" timestamp="1575879039092">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1150" height="271" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1575879039092" />
+    <state width="1150" height="271" key="GridCell.Tab.2.bottom" timestamp="1575879039093">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1150" height="271" key="GridCell.Tab.2.bottom/0.0.1440.860@0.0.1440.860" timestamp="1575879039093" />
+    <state width="1150" height="271" key="GridCell.Tab.2.center" timestamp="1575879039093">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1150" height="271" key="GridCell.Tab.2.center/0.0.1440.860@0.0.1440.860" timestamp="1575879039093" />
+    <state width="1150" height="271" key="GridCell.Tab.2.left" timestamp="1575879039093">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1150" height="271" key="GridCell.Tab.2.left/0.0.1440.860@0.0.1440.860" timestamp="1575879039093" />
+    <state width="1150" height="271" key="GridCell.Tab.2.right" timestamp="1575879039093">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1150" height="271" key="GridCell.Tab.2.right/0.0.1440.860@0.0.1440.860" timestamp="1575879039093" />
+    <state width="1150" height="271" key="GridCell.Tab.3.bottom" timestamp="1575879039093">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1150" height="271" key="GridCell.Tab.3.bottom/0.0.1440.860@0.0.1440.860" timestamp="1575879039093" />
+    <state width="1150" height="271" key="GridCell.Tab.3.center" timestamp="1575879039093">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1150" height="271" key="GridCell.Tab.3.center/0.0.1440.860@0.0.1440.860" timestamp="1575879039093" />
+    <state width="1150" height="271" key="GridCell.Tab.3.left" timestamp="1575879039093">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1150" height="271" key="GridCell.Tab.3.left/0.0.1440.860@0.0.1440.860" timestamp="1575879039093" />
+    <state width="1150" height="271" key="GridCell.Tab.3.right" timestamp="1575879039093">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1150" height="271" key="GridCell.Tab.3.right/0.0.1440.860@0.0.1440.860" timestamp="1575879039093" />
+    <state x="952" y="73" key="RollbackChangesDialog" timestamp="1575704874266">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="952" y="73" key="RollbackChangesDialog/0.0.1440.860@0.0.1440.860" timestamp="1575704874266" />
+    <state x="234" y="101" key="SettingsEditor" timestamp="1576142223502">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="234" y="101" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1576142223502" />
+    <state width="498" height="452" key="SwitcherDM" timestamp="1575686289963">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="498" height="452" key="SwitcherDM/0.0.1440.860@0.0.1440.860" timestamp="1575686289963" />
+    <state x="492" y="81" key="Vcs.Push.Dialog.v2" timestamp="1575711115584">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="492" y="81" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1575711115584" />
+    <state x="500" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1575709964286">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.860@0.0.1440.860" timestamp="1575709964286" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

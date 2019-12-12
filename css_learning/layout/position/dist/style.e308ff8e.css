@@ -1,0 +1,26 @@
+.container{
+    position: relative;
+    border: 1px solid #DFB8F8;
+}
+nav{
+    position: absolute;
+    left: 0;
+    width: 200px;
+    border: 1px solid #efb75a;
+}
+section{
+    margin-left: 200px;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 70px;
+    background-color: #7e8184;
+    width: 100%;
+}
+body{
+    margin-bottom: 120px;
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */

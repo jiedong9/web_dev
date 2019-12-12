@@ -1,4 +1,36 @@
 * {
+<<<<<<< HEAD
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu-container {
+    color: #ffffff;
+    background-color: #5995da;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+
+}
+
+.menu {
+    border: 1px solid #ffffff;
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.links {
+    border: 1px solid #ffffff;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.login {
+    margin-left: 20px;
+}
+=======
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -95,3 +127,4 @@
   flex: initial;
   width: 300px;
 }
+>>>>>>> a846f090bc6711d41a62230dec0e5272e959158c

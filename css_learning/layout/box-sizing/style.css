@@ -1,0 +1,26 @@
+
+#main{
+    border: 1px solid #76aeed;
+    max-width: 600px;
+    height: 500px;
+    background: #7e8184;
+    margin: 0 auto;
+}
+.simple{
+    box-sizing: border-box;
+    width: 500px;
+    height: 200px;
+    margin: 20px auto;
+    border: 1px solid #8AFCF9;
+    background: #5995da;
+}
+.fancy{
+    box-sizing: border-box;
+    /*border: 1px solid #efb75a;*/
+    width: 500px;
+    height: 300px;
+    margin: 20px auto;
+    padding: 50px;
+    border-width: 10px;
+    background: #efb75a;
+}
