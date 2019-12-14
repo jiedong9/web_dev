@@ -1,4 +1,7 @@
+import addLoadEvent from "./addLoadEvent"
+
 let dispalyAbbreviations = () =>{
+    if (!document.getElementsByTagName || !document.createElement ||!document.createTextNode) return false
     let abbreviations = document.getElementsByTagName('abbr'), defs
     console.log(abbreviations)
     if (abbreviations.length < 1) return false
@@ -29,6 +32,6 @@ let dispalyAbbreviations = () =>{
     document.body.appendChild(dlist)
 
 }
-dispalyAbbreviations()
+addLoadEvent(dispalyAbbreviations)
 
 //page133
