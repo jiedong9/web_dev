@@ -1,0 +1,72 @@
+body {
+    color: #ffbb55;
+    background-color: #333344;
+}
+
+a:link {
+    color: #444455;
+    background-color: #eebb66;
+}
+
+a:visited {
+    color: #345;
+    background-color: #eebb66;
+}
+
+a:hover {
+    color: #666677;
+    background-color: #ffbb55;
+}
+
+a:active {
+    color: #777788;
+    background-color: #eecc88;
+}
+
+header {
+    color: #eecc88;
+    background-color: #333344;
+    border-color: #666677;
+}
+
+header nav {
+    color: #223333;
+    /*background-color: #edc;*/
+    border-color: #667;
+}
+
+article {
+    color: #222233;
+    background-color: transparent;
+    border-color: #666677;
+}
+
+header nav ul {
+    border-color: #9999aa;
+}
+
+header nav a:link,
+header nav a:visited {
+    color: #eef;
+    background-color: transparent;
+    border-color: #9999aa;
+}
+
+header nav a:hover {
+    color: #444455;
+    background: #eebb66;
+}
+
+header nav a:active {
+    color: #666677;
+    background-color: #eebb66;
+}
+
+article img {
+    border-color: #bbaa99;
+    outline-color: #dcb;
+}
+
+#imagegallery a {
+    background-color: transparent;
+}
