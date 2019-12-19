@@ -1,0 +1,31 @@
+body {
+    font-family: 'Georgia pro', Georgia, Times, 'Times New Roman', serif;
+    line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Avenir Next, 'Segoe UI', arial, sans-serif;
+    margin-top: 1.5rem;
+}
+
+article {
+    font-size: 1.314em;
+}
+
+p {
+    color: #3b4348;
+}
+
+a {
+    color: #235ea7;
+}
+
+
+h3 {
+    font-size: 1.314em;
+}
